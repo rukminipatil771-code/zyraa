@@ -1,0 +1,6 @@
+{
+  "name": "ZYRAA",
+  "description": "Discover Your Style. Shop Your World. Premium fashion, footwear, bags, accessories, beauty, electronics, and lifestyle storefront.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
